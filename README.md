@@ -1,4 +1,4 @@
-## EhighG
+# EhighG
 
 <!--
 **EhighG/EhighG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-### :rocket: Experience
+## :rocket: Experience
 - `2023.07 ~ ` 삼성 청년 소프트웨어 아카데미(SSAFY) 10기
 - `2022.09 ~ 2023.02` University MakeUs Challenge(UMC) 5기 - Spring 파트
 
 <br><br>
 
-### :dart: Current Focus
+## :dart: Current Focus
 - Problem solving
 
 <br>
