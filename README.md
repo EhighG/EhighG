@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 ## :dart: Current Focus
 - Problem solving
-- Spring basic
-- Clean code
-
+- Spring/Springboot
 <br>
 
 ---
