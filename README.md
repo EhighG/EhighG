@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ## :rocket: Experience
-- `2023.07 ~ 2023.06` 삼성 청년 소프트웨어 아카데미(SSAFY) 10기
+- `2023.07 ~ 2024.06` 삼성 청년 소프트웨어 아카데미(SSAFY) 10기
 - `2022.09 ~ 2023.02` University MakeUs Challenge(UMC) 3기 - Spring 파트
 
 <br><br>
