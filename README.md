@@ -37,6 +37,18 @@ Here are some ideas to get you started:
 
 <br>
 
+## :flags: Project
+- **Findear - 분실물 관리 플랫폼 (7주 / 6인)**
+  - Spring boot, Spring Data JPA, Spring Security, Redis, MySQL
+  - JWT 기반 인증/인가, 소셜 로그인, 분실물/습득물 관리, 습득물 인계처리
+  - [Github](https://github.com/EhighG/Findear)
+ 
+- **PetCong - 반려동물 기반 화상 소개팅 (7주 / 6인)**
+  - Spring boot, WebRTC, WebSocket, Flutter
+  - WebRTC FE 개발, WebSocket 기반 시그널링 FE+BE 개발
+  - [Github](https://github.com/EhighG/Petcong)
+ 
+
 ---
 <br>
 
