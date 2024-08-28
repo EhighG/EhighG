@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 <br><br>
 
 ## :dart: Current Focus
-- OS
+- MySQL
+- JPA
 
 <!--
+- OS
 - Spring/Springboot
 - MSA with Spring Cloud
   - [실습 레포지토리](https://github.com/EhighG/MSA-with-Spring-Cloud)
