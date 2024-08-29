@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## :flags: Project
 - **Findear - 분실물 관리 플랫폼 (7주 / 6인)**
-  - Spring boot, Spring Data JPA, Spring Security, Redis, MySQL
+  - Spring boot, Spring Data JPA, Spring Security, Redis, MariaDB
   - JWT 기반 인증/인가, 소셜 로그인, 분실물/습득물 관리, 습득물 인계처리
   - [Github](https://github.com/EhighG/Findear)
  
