@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## :dart: Current Focus
 - MySQL
 - JPA
+- Spring
 
 <!--
 - OS
