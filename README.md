@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   - [실습 레포지토리](https://github.com/EhighG/MSA-with-Spring-Cloud)
 -->
 
+<!--
 <br>
 
 ## :flags: Project
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
   - Spring boot, WebRTC, WebSocket, Flutter
   - WebRTC FE 개발, WebSocket 기반 시그널링 FE+BE 개발
   - [Github](https://github.com/EhighG/Petcong)
- 
+ -->
 
 ---
 <br>
