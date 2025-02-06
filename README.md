@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 <br><br>
 
-## :dart: Current Focus
-- RDB
 
 <!--
+## :dart: Current Focus
+- RDB
 - OS
 - Spring/Springboot
 - MSA with Spring Cloud
